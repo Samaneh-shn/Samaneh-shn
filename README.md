@@ -1,7 +1,8 @@
-## Hi there! <img src="https://github.com/user-attachments/assets/f9aab6dd-e5c4-4958-80fd-87b6f97c4530" alt="Wave GIF" width="4%" height="4%"/>
+## Hi there! 
 
 
 <!--
+<img src="https://github.com/user-attachments/assets/f9aab6dd-e5c4-4958-80fd-87b6f97c4530" alt="Wave GIF" width="4%" height="4%"/>
 **Samaneh-shn/Samaneh-shn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
