@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 ## 💫 I'm Sam, a data enthusiast with a passion for turning code into powerful insights and solutions. 
 
 <img src="https://github.com/user-attachments/assets/6bd8dde1-4a98-48ed-b615-fe21b341804c" alt="Me" width="40%" height="40%"/>
---
---
+
 
 
 🔍 **I specialize in data analysis, machine learning, and predictive modeling**—transforming complex data into actionable insights.
