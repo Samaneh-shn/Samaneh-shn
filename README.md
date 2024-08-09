@@ -1,8 +1,9 @@
-## Hi there! 
+## Hi there! <img src="https://github.com/user-attachments/assets/f9aab6dd-e5c4-4958-80fd-87b6f97c4530" alt="Wave GIF" width="4%" height="4%"/>
 
 
 <!--
-<img src="https://github.com/user-attachments/assets/f9aab6dd-e5c4-4958-80fd-87b6f97c4530" alt="Wave GIF" width="4%" height="4%"/>
+<img src="https://github.com/user-attachments/assets/6bd8dde1-4a98-48ed-b615-fe21b341804c" alt="Me" width="40%" height="40%"/>
+
 **Samaneh-shn/Samaneh-shn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,7 +20,6 @@ Here are some ideas to get you started:
 
 ## 💫 I'm Sam, a data enthusiast with a passion for turning code into powerful insights and solutions. 
 
-<img src="https://github.com/user-attachments/assets/6bd8dde1-4a98-48ed-b615-fe21b341804c" alt="Me" width="40%" height="40%"/>
 
 
 
