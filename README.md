@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 📊 **My goal is to make data science and technology accessible and impactful**, leveraging their potential to contribute meaningfully across both industry and academia.
 
 - 📫 **Let's Connect!**
-  [![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail)](mailto:shirinnezhad.samaneh@gmail.com)
-  [![Website](https://img.shields.io/badge/Website-blue?style=flat&logo=google-chrome)](https://samanehshirinnezhad.wordpress.com)
+  [![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail)](mailto:samaneh.shirinnezhad@gmail.com)
+  [![Website](https://img.shields.io/badge/Website-blue?style=flat&logo=google-chrome)](https://samaneh-shn.github.io)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samanehshirinnezhad/)
   [![X (formerly Twitter)](https://img.shields.io/badge/X-blue?style=flat&logo=x)](https://x.com/samaneh_shn)
   [![GitHub](https://img.shields.io/badge/GitHub-blue?style=flat&logo=github)](https://github.com/samaneh-shn/)
