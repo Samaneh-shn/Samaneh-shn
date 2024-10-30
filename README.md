@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 💻 **I'm proficient in a wide range of programming languages and tools**:
 
-- **Data Science & Analysis:** Python, R, SQL
+- **Data Science & Analysis:** Python, R, Julia, SQL
 - **Software Development:** C++, C#, Lua, JavaScript
 - **Web Development:** HTML, JavaScript, p5.js
 - **VR Development & Simulation:** C#, Unity
